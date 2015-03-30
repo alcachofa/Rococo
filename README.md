@@ -1,6 +1,6 @@
 # Rococo
 
-A dark, personal, warm theme for TextMate and Sublime Text.
+A dark, personal, warm theme for TextMate.
 
 I don't like bright-on-dark themes, they burn my eyes, then:
 
